@@ -1,6 +1,4 @@
-
-
-## 💫 Frontend Development Journey 
+## 💫 My Frontend Development Journey 
 
 
 <div align="center">
@@ -14,8 +12,8 @@ This repo is neatly organized into four main sections:
 
 - 🧩 Components → Reusable UI components
 - 🎨 HTML & CSS → Styling fundamentals and creative layouts  
-- ⚡ JavaScript → From simple scripts to advanced logic  
-- ⚛️ React → apps, and scalable UI projects  
+- ⚡ JavaScript → From simple scripts to intermediate logic  
+- ⚛️ React → Mini apps, and scalable UI projects  
 
 Here you’ll find projects of different levels:  
 - 🟢 Basic projects 
@@ -32,8 +30,8 @@ The structure of my frontend projects from basic to advanced.
 📁 Frontend-hub/
 ├── 🟩 components/         # UI components
 ├── 🟧 html-css/           # Basic Html & CSS project
-├── 🟨 javascript/         # Small to intermediate JS projects
-└── 🟦 react/              # Reusable components & full React apps
+├── 🟨 javascript/         # Simple to intermediate JS projects
+└── 🟦 react/              # Intermediate to advanced full React apps
 ```
 
 ---
