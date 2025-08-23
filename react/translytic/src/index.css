@@ -1,0 +1,48 @@
+@import url("/font.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Vazir";
+}
+
+@layer components {
+  .textarea__field {
+    @apply w-full h-full bg-transparent outline-none resize-none placeholder:text-secondary-100;
+  }
+
+  .translate__wrapper {
+    @apply w-full rounded-3xl border-2 border-secondary-100 px-5;
+  }
+
+  .btn {
+    @apply font-bold rounded-lg transition-all duration-300 border-2 border-primary-100;
+  }
+
+  .btn--primary {
+    @apply bg-blue-400 text-secondary-0 border border-blue-300 hover:bg-blue-500 disabled:bg-blue-200 px-3 py-2;
+  }
+
+  .btn--secondary {
+    @apply text-primary-100 hover:border-secondary-100 hover:text-secondary-100 p-1;
+  }
+}
+
+body {
+  min-height: 100vh;
+  background-image: url("/backgraound.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/*  for chrome */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  scrollbar-width: none; /* fireFox */
+}
