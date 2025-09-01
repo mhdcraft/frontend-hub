@@ -6,7 +6,7 @@
 
 > _Welcome to Taskify where your tasks meet simplicity and organization_
 
-[🚀 Live Demo]()
+[🚀 Live Demo](https://taskify-app-demo.vercel.app/)
 
 [![Made with](https://img.shields.io/badge/Made%20with-✨-black.svg)](https://github.com/mhdcraft)
 [![React](https://img.shields.io/badge/React-⚛️-purple.svg)](https://react.dev/)
@@ -28,35 +28,35 @@ The app supports **SPA navigation** using React Router, is fully **responsive**,
 
 ## 🚀 Key Features
 
-- Multiple Boards: Create as many boards as you need.
+🗂️ Multiple Boards: Create as many boards as you need.
 
-- Task Management: Add, edit, delete tasks in each board.
+✅ Task Management: Add, edit, delete tasks in each board.
 
-- Task Statuses: Tasks can have different statuses: To Do, In Progress, Completed, Won’t Do.
+🔄 Task Statuses: Tasks can have different statuses: To Do, In Progress, Completed, Won’t Do.
 
-- Task Icons: Assign unique icons to tasks for quick visual cues.
+✨ Task Icons: Assign unique icons to tasks for quick visual cues.
 
-- Filtering: Filter tasks in each board based on their status.
+🔍 Filtering: Filter tasks in each board based on their status.
 
-- Mobile-First Design: Fully responsive on all devices.
+📱 Mobile-First Design: Fully responsive on all devices.
 
-- Context + Reducer: Centralized state management for smooth performance.
+⚡️ Context + Reducer: Centralized state management for smooth performance.
 
-- User-Friendly UI: Designed with Tailwind CSS for modern, clean layouts.
+🎨 User-Friendly UI: Designed with Tailwind CSS for modern, clean layouts.
 
 ---
 
 ## 🛠️ Tech Stack
 
-React: Frontend framework for building interactive UI.
+⚛️ React: Frontend framework for building interactive UI.
 
-React Router DOM: SPA navigation between boards.
+🚦 React Router DOM: SPA navigation between boards.
 
-Context + Reducer: Efficient global state management.
+⚡️ Context + Reducer: Efficient global state management.
 
-Tailwind CSS v3: Modern styling with responsive design.
+🎨 Tailwind CSS v3: Modern styling with responsive design.
 
-JSON Server: Simulated backend for task and board data.
+🌐 JSON Server: Simulated backend for task and board data.
 
 ---
 
